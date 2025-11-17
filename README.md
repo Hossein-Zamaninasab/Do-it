@@ -1,6 +1,6 @@
 # Do it! - Smart Task Management
 
-![Do it! Hero Image]([placeholder-hero.png](https://github.com/user-attachments/assets/ef05d750-15c5-4260-907c-f8f9bf34fadf))
+![Do it! Hero Image](https://github.com/user-attachments/assets/ef05d750-15c5-4260-907c-f8f9bf34fadf)
 
 `Do it!` is a modern task management application designed with one primary goal: **helping you get things done.**
 
